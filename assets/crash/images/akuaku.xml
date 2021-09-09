@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="akuaku.png"><SubTexture name="akuaku idle0000" x="0" y="0" width="465" height="1047" frameX="0" frameY="0" frameWidth="465" frameHeight="1047" />
+<SubTexture name="akuaku idle0001" x="465" y="0" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0002" x="931" y="0" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0003" x="1397" y="0" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0004" x="0" y="1047" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0005" x="466" y="1047" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0006" x="932" y="1047" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0007" x="1398" y="1047" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0008" x="0" y="2094" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0009" x="466" y="2094" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0010" x="932" y="2094" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0011" x="1398" y="2094" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0012" x="0" y="3141" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0013" x="466" y="3141" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0014" x="932" y="3141" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0015" x="1398" y="3141" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0016" x="0" y="4188" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0017" x="466" y="4188" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0018" x="932" y="4188" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0019" x="1398" y="4188" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0020" x="0" y="5235" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0021" x="466" y="5235" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0022" x="932" y="5235" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0023" x="1398" y="5235" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0024" x="0" y="6282" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0025" x="466" y="6282" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0026" x="932" y="6282" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0027" x="1398" y="6282" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0028" x="0" y="7329" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0029" x="466" y="7329" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0030" x="932" y="7329" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0031" x="1398" y="7329" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0032" x="0" y="8376" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0033" x="466" y="8376" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0034" x="932" y="8376" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0035" x="1398" y="8376" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0036" x="0" y="9423" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0037" x="466" y="9423" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0038" x="932" y="9423" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+<SubTexture name="akuaku idle0039" x="1398" y="9423" width="466" height="1047" frameX="0" frameY="0" frameWidth="466" frameHeight="1047" />
+</TextureAtlas>

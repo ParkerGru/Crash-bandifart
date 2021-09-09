@@ -1,0 +1,3 @@
+Wump:crash:0
+Crates:crash:0
+Spin:crash:0
